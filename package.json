@@ -17,6 +17,14 @@
   },
   "homepage": "https://github.com/clemherreman/parking",
   "dependencies": {
-    "express": "^4.14.0"
+    "bootstrap-sass": "^3.3.6",
+    "express": "^4.14.0",
+    "font-awesome": "^4.6.3",
+    "gulp": "^3.9.1",
+    "gulp-concat": "^2.6.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.6.0",
+    "install": "^0.8.1",
+    "npm": "^3.10.2"
   }
 }
