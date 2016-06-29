@@ -11,6 +11,6 @@ app.get('/', function(req, res){
   res.sendFile(__dirname + '/index.html');
 });
 
-server.listen(65432, function () {
-  console.log('Example app listening on port 65432!');
+server.listen(3000, function () {
+  console.log('Example app listening on port 3000!');
 });
